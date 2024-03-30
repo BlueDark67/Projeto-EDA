@@ -1,2 +1,2 @@
 # Projeto-EDA
-Projeto EDA - Represata um armazem
+Projeto EDA - Representa um armazem
